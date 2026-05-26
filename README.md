@@ -1,5 +1,5 @@
 # tracking_game
-#tracking game wtih mediapipe
+tracking game wtih mediapipe
 
 # 操作方法：
 ## 右移動：画面右に手を移動
